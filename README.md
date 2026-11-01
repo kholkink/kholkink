@@ -1,8 +1,6 @@
 ### Hi, I'm NoJokes 👋
 
-I build ML systems that have to work under hard constraints: 9-hour offline Kaggle notebooks, 3-bit quantized LLMs,
-sandboxed agents with no internet. Every project here ends with an honest write-up of what worked and what didn't.
-
+I build ML systems.
 - 🔬 **Now:** molecule identification from MS/MS spectra (Kaggle CASMI26) and a Gemma 4 coding agent
 - 🧠 **Interests:** LLM agents, model compression, medical imaging, retrieval and ranking, procedural generation
 - 📊 **Kaggle:** [kirillkholkin](https://www.kaggle.com/kirillkholkin)
